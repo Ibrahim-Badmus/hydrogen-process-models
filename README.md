@@ -1,5 +1,3 @@
-# hydrogen-process-models
-
 # Hydrogen Process & Systems Engineering Portfolio
 
 ## Overview
